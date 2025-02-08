@@ -23,6 +23,7 @@ loggingInterceptor = "4.9.0"
 materialIconsCore = "1.7.7"
 navigationCompose = "2.8.6"
 okhttp = "4.9.0"
+palette = "1.0.0"
 paletteV7 = "28.0.0"
 retrofit = "2.9.0"
 timber = "4.7.1"
@@ -40,6 +41,7 @@ androidx-lifecycle-viewmodel-ktx = { module = "androidx.lifecycle:lifecycle-view
 androidx-material-icons-core = { module = "androidx.compose.material:material-icons-core", version.ref = "materialIconsCore" }
 androidx-material-icons-extended-android = { module = "androidx.compose.material:material-icons-extended-android", version.ref = "materialIconsCore" }
 androidx-navigation-compose = { module = "androidx.navigation:navigation-compose", version.ref = "navigationCompose" }
+androidx-palette = { module = "androidx.palette:palette", version.ref = "palette" }
 coil = { module = "io.coil-kt:coil", version.ref = "coil" }
 converter-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "converterGson" }
 hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "hiltAndroid" }
