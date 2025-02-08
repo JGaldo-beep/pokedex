@@ -102,7 +102,7 @@ dependencies {
     kapt(libs.androidx.hilt.compiler)
     implementation(libs.androidx.hilt.navigation.compose)
 
-    implementation(libs.palette.v7)
+    implementation(libs.androidx.palette)
 }
 
 // Allow references to generated code
