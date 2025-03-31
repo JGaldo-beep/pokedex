@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Pokedex</string>
+    <string name="pokemon1_name">Bulbasaur</string>
+    <string name="pokemon1_description">Un Pokémon tipo planta/veneno con una semilla en su espalda que crece con él.</string>
+    <string name="pokemon2_name">Ivysaur</string>
+    <string name="pokemon2_description">La planta en su espalda florece al absorber energía del sol.</string>
+    <string name="pokemon3_name">Venusaur</string>
+    <string name="pokemon3_description">Su flor completamente desarrollada libera un aroma que calma a los demás.</string>
+    <string name="pokemon4_name">Charmander</string>
+    <string name="pokemon4_description">Su llama en la cola refleja su estado de ánimo y salud.</string>
+    <string name="pokemon5_name">Charmeleon</string>
+    <string name="pokemon5_description">Más agresivo que Charmander; su llama arde con más fuerza al enojarse.</string>
+    <string name="pokemon6_name">Charizard</string>
+    <string name="pokemon6_description">Puede volar y lanzar fuego ardiente; teme poco a sus oponentes.</string>
+    <string name="pokemon7_name">Squirtle</string>
+    <string name="pokemon7_description">Usa su caparazón como defensa y lanza agua con gran precisión.</string>
+    <string name="pokemon8_name">Wartortle</string>
+    <string name="pokemon8_description">Sus orejas peludas y su cola simbolizan longevidad; nada con agilidad.</string>
+    <string name="pokemon9_name">Blastoise</string>
+    <string name="pokemon9_description">Tiene cañones de agua en su caparazón capaces de romper acero.</string>
+    <string name="pokemon10_name">Caterpie</string>
+    <string name="pokemon10_description">Un Pokémon insecto que usa su antena para repeler enemigos.</string>
 </resources>
