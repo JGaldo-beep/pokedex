@@ -8,5 +8,3 @@ data class Pokemon (
     @StringRes val description: Int,
     @DrawableRes val image: Int,
 )
-
-// Pokemon("Name", "Description", R.drawable.image)
